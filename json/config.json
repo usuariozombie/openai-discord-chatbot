@@ -1,0 +1,15 @@
+{
+	"BotToken": "BOT TOKEN",
+	"CacheFolders": [
+		"__pycache__",
+		"cogs/__pycache__",
+		"tools/utils/__pycache__"
+	],
+	"Permissions": 8,
+	"Prefix": ",",
+	"Whitelist": [
+		"YOUR ID"
+	],
+    "OpenAIKey": "YOUR OPENAI KEY",
+	"YourChannelID": "YOUR CHANNEL ID"
+}
