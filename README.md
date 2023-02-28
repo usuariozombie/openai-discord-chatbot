@@ -19,7 +19,8 @@ Usage:
 2. Set the following environment variables:
     - DISCORD_TOKEN: the Discord bot token (get one at https://discord.com/developers/applications/)
     - OPENAI_API_KEY: the OpenAI API key (get one at https://beta.openai.com/signup/)
-3. Run the bot with `python bot.py`.
+4. Edit your config.json file with api keys...
+3. Run the bot with `python main.py`.
 
 Contributing:
 Feel free to contribute to this project by submitting bug reports, feature requests, or code improvements. Pull requests are welcome!
